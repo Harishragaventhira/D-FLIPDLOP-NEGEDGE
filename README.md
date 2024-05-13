@@ -59,7 +59,7 @@ else
 Q <= D;
 endmodule
 
-Developed by : VARSHA A(212223220121)
+Developed by : HARISHS (212223230072)
 ~~~
 **RTL LOGIC FOR FLIPFLOPS**
 
